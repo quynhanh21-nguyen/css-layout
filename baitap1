@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAITAP1</title>
+    <link rel="stylesheet" href="baitap1.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="logo">Logo</div>
+        <div class="Nav">Navigation</div>
+        <div class="header">Header/Banner</div>
+        <div class="body">
+            <div class="left">Slide bar</div>
+            <div class="right">Body area</div>
+        </div>
+        <div class="footer">Footer</div>
+    </div>
+
+</body>
+
+</html>
